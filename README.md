@@ -26,9 +26,7 @@ End the program
 ## PROGRAM:
 ```
 #DEVELOPED BY : Sarish Varshan V
-
 #REGISTER NUMBER: 212223230196
-
 import sys
 fp=open(sys.argv[1])
 wordcount=0
